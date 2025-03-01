@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278535170572",
+    "project_id": "project-1f860",
+    "storage_bucket": "project-1f860.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278535170572:android:284019ea4c2b70eb5b5c29",
+        "android_client_info": {
+          "package_name": "com.example.cloutbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAETTLXM_aOwDBSaFhdLINy6dWMvAe7oVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
